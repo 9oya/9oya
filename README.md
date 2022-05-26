@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![Leetcode](https://img.shields.io/badge/leetcode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/9oya)
 [![HackerRank](https://img.shields.io/badge/hackerrank-%232EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/eido9oya)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eunsang-lee-2661281a1)
