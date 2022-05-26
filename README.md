@@ -1,8 +1,11 @@
 ### Hi there 👋
 
+[![Leetcode](https://img.shields.io/badge/leetcode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/9oya)
+[![HackerRank](https://img.shields.io/badge/hackerrank-%232EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/eido9oya)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eunsang-lee-2661281a1)
+
 [![Programmers](https://img.shields.io/badge/-programmers-black)](https://programmers.co.kr/pr/eido9oya_5893)
-[![Leetcode](https://img.shields.io/badge/-leetcode-orange)](https://leetcode.com/9oya)
-[![LinkedIn](https://img.shields.io/badge/-linkedin-blue)](https://www.linkedin.com/in/eunsang-lee-2661281a1)
+
 <!--
 **9oya/9oya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
