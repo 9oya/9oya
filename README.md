@@ -4,7 +4,7 @@
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)
 [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9oya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9oya&layout=compact)
 
 ### How to reach me 📫
 [![Leetcode](https://img.shields.io/badge/leetcode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/9oya)
