@@ -1,5 +1,5 @@
 ### This is my tech stacks 🛠
-[![iOS](https://img.shields.io/badge/ios-%23000000.svg?&style=for-the-badge&logo=ios&logoColor=white)](https://developer.apple.com/)
+[![apple](https://img.shields.io/badge/ios-%23000000.svg?&style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/)
 [![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)
 [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
