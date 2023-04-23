@@ -9,12 +9,8 @@
 ### How to reach me 📫
 [![Leetcode](https://img.shields.io/badge/leetcode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/9oya)
 [![HackerRank](https://img.shields.io/badge/hackerrank-%232EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/eido9oya)
-[![Programmers](https://img.shields.io/badge/-programmers-212C42.svg?&style=for-the-badge&logo=fluentbit&logoColor=white)](https://programmers.co.kr/pr/eido9oya_5893)
-
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eunsang-lee-2661281a1)
 [![githubpages](https://img.shields.io/badge/9oya.github.io-222222.svg?&style=for-the-badge&logo=githubpages&logoColor=white)](https://9oya.github.io/)
-
-[![dymm](https://img.shields.io/badge/Dymm-512BD4.svg?&style=for-the-badge&logo=bun&logoColor=white)](https://dymm.io/)
 
 <!--
 **9oya/9oya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
